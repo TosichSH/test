@@ -1,3 +1,3 @@
 "# test" 
-# test Tonya nichego ne ponyala no chto-to sdelsla
+# test Tonya nichego ne ponyala no chto-to sdelala
 "# test" 
